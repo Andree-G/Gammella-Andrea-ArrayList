@@ -10,7 +10,5 @@ public class es1 {
     for(int i = 0; i < nomi.size(); i++){
         System.out.println(nomi.get(i));
     }
-
-       
-}
+  }
 }
